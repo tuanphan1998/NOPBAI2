@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name='bai002_timhieu_sqllite'
